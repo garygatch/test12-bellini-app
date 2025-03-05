@@ -3,7 +3,18 @@
   "type": "page",
   "url": "/home",
   "params": {},
-  "variables": [],
+  "variables": [
+    {
+      "name": "a",
+      "type": "service",
+      "id": "service"
+    },
+    {
+      "name": "petstore",
+      "type": "open-api",
+      "id": "open-api"
+    }
+  ],
   "children": [
     {
       "name": "a",
