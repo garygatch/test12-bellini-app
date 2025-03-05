@@ -1,0 +1,44 @@
+{
+  "type": "custom-component",
+  "name": "a",
+  "nodeName": null,
+  "description": null,
+  "children": [
+    {
+      "name": "Button",
+      "nodeName": "bln-button",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "marketplaceId": null,
+  "formControl": null,
+  "transclude": null,
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": []
+}
